@@ -4,7 +4,7 @@
  * @Author: 宁四凯
  * @Date: 2020-09-11 13:35:36
  * @LastEditors: 宁四凯
- * @LastEditTime: 2020-09-11 14:16:08
+ * @LastEditTime: 2020-09-11 14:18:57
  */
 class Video {
   produce() {}
@@ -40,7 +40,7 @@ class JavaVideoFactory {
 
 class JavaScriptVideo {
   produce() {
-    console.log("录制Java课程视频");
+    console.log("录制JavaScript课程视频");
   }
 }
 
