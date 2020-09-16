@@ -4,7 +4,7 @@
  * @Author: 宁四凯
  * @Date: 2020-09-11 13:08:21
  * @LastEditors: 宁四凯
- * @LastEditTime: 2020-09-16 13:14:09
+ * @LastEditTime: 2020-09-16 13:17:18
 -->
 
 # design_pattern
@@ -22,7 +22,7 @@ javascript 设计模式
 
 ### 结构型(structural)
 
-- [适配器模式](https://github.com/ningsk/design_pattern/blob/master/structural/Adater.md)
+- [适配器模式](https://github.com/ningsk/design_pattern/blob/master/structural/Adapter.md)
 - [装饰者模式](https://github.com/ningsk/design_pattern/blob/master/structural/Decorator.md)
 
 - [外观模式](https://github.com/ningsk/design_pattern/blob/master/structural/Facade.md)
