@@ -4,7 +4,7 @@
  * @Author: 宁四凯
  * @Date: 2020-09-11 13:08:21
  * @LastEditors: 宁四凯
- * @LastEditTime: 2020-09-16 13:17:18
+ * @LastEditTime: 2020-09-16 16:18:03
 -->
 
 # design_pattern
@@ -19,6 +19,7 @@ javascript 设计模式
 - [工厂方法模式](https://github.com/ningsk/design_pattern/blob/master/creational/FactoryMethod.md)
 - [原型模式](https://github.com/ningsk/design_pattern/blob/master/creational/Prototype.md)
 - [单例模式](https://github.com/ningsk/design_pattern/blob/master/creational/Singleton.html)
+- [建造者模式](https://github.com/ningsk/design_pattern/blob/master/creational/Build.md)
 
 ### 结构型(structural)
 
@@ -27,6 +28,7 @@ javascript 设计模式
 
 - [外观模式](https://github.com/ningsk/design_pattern/blob/master/structural/Facade.md)
 - [代理模式](https://github.com/ningsk/design_pattern/blob/master/structural/proxy/Proxy.md)
+- [桥接模式](https://github.com/ningsk/design_pattern/blob/master/structural/Bridge.md)
 
 ### 行为型(behavioral)
 
