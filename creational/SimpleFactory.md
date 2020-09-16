@@ -1,11 +1,15 @@
-/*
- * @Description: 简单工厂类
+<!--
+ * @Description: 简易工厂模式
  * @version:
  * @Author: 宁四凯
  * @Date: 2020-09-11 13:23:52
  * @LastEditors: 宁四凯
- * @LastEditTime: 2020-09-11 13:51:16
- */
+ * @LastEditTime: 2020-09-16 11:18:55
+-->
+
+# SimpleFactory
+
+```javascript
 class Video {
   produce() {}
 }
@@ -40,3 +44,4 @@ class VideoFactory {
 
 VideoFactory.getVideo(VideoType.JavaScriptVideo).produce();
 VideoFactory.getVideo(VideoType.JavaVideo).produce();
+```

@@ -1,13 +1,6 @@
-/*
- * @Description:
- * @version:
- * @Author: 宁四凯
- * @Date: 2020-09-11 14:41:49
- * @LastEditors: 宁四凯
- * @LastEditTime: 2020-09-11 15:16:23
- */
+# Build
 
-// 书籍建造者类
+```javascript
 class BookBuilder {
   constructor() {
     this.name = "";
@@ -53,3 +46,4 @@ const book = new BookBuilder()
   .withPrice(51)
   .withCategory("励志")
   .build();
+```

@@ -1,11 +1,6 @@
-/*
- * @Description: 工厂方法模式，让我们将创建实例的过程推迟到了子类中，这样我们的核心类就变成了抽象类，并且将构造函数和创建者分离，对new操作进行了封装
- * @version:
- * @Author: 宁四凯
- * @Date: 2020-09-11 13:35:36
- * @LastEditors: 宁四凯
- * @LastEditTime: 2020-09-11 14:18:57
- */
+# FactoryMethod
+
+```javascript
 class Video {
   produce() {}
 }
@@ -76,3 +71,4 @@ let video2 = FactoryMethod.create(VideoType.JavaScriptVideo).getVideo();
 video.produce();
 video2.produce();
 video3.produce();
+```
